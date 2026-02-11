@@ -1,0 +1,16 @@
+{
+  "name": "jeanie-agent-adk",
+  "version": "1.0.0",
+  "description": "Jeanie Agent ADK - Cloudflare Worker",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
